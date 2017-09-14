@@ -1,0 +1,6 @@
+body::after {
+  content: 'HELLO WORLD!';
+  font-size: 100px;
+  color: green;
+  font-family: Arial;
+}
